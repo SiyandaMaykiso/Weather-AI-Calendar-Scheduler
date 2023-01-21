@@ -53,3 +53,4 @@ Siyanda, Peter, Violet & Micah
 ## Links
 
 Repository: https://github.com/SiyandaMaykiso/Weather-AI-Calendar-Scheduler
+Deployed application: https://siyandamaykiso.github.io/Weather-AI-Calendar-Scheduler/
