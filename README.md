@@ -52,4 +52,4 @@ Peter, Violet, Micah & Siyanda
 
 ## Links
 
-Github: https://github.com/SiyandaMaykiso/Weather-AI-Calendar-Scheduler
+Repository: https://github.com/SiyandaMaykiso/Weather-AI-Calendar-Scheduler
