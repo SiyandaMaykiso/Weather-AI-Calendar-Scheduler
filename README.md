@@ -1,4 +1,4 @@
-# Project_Grovyle
+# Weather (AI) Calendar Scheduler
 
 ![Screen Shot Weather API.png.](Front%20of%20Weather%20API.001.png)
 
