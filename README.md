@@ -52,4 +52,4 @@ Peter, Violet, Micah & Siyanda
 
 ## Links
 
-Github: https://github.com/Cete4/Project_Grovyle.git
+Github: https://github.com/SiyandaMaykiso/Weather-AI-Calendar-Scheduler
