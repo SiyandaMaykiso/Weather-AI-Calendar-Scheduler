@@ -4,6 +4,8 @@
 
 ![Screen Shot Weather API.png.](Back%20of%20the%20Weather%20API.001.png)
 
+### Functionality
+
 ![](Weather%20API.gif)
 
 ### Demonstration 
