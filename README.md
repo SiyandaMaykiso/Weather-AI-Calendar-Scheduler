@@ -48,7 +48,7 @@ Webkits
 
 ## Credits
 
-Peter, Violet, Micah & Siyanda
+Siyanda, Peter, Violet & Micah 
 
 ## Links
 
