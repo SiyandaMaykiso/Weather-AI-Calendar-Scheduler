@@ -1,0 +1,43 @@
+{
+    "name": "project_grovyle",
+    "version": "1.0.0",
+    "description": "A project that will allow you to plan your life around the weather",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "lint:fix": "eslint --fix --ext .js,.jsx ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Cete4/Project_Grovyle.git"
+    },
+    "keywords": [
+        "calender",
+        "node",
+        "javascript",
+        "css",
+        "html",
+        "weather",
+        "fullstack",
+        "web"
+    ],
+    "author": "Violet, Siyanda, Micah, Peter",
+    "license": "Unlicense",
+    "bugs": {
+        "url": "https://github.com/Cete4/Project_Grovyle/issues"
+    },
+    "homepage": "https://github.com/Cete4/Project_Grovyle#readme",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mysql2": "^2.2.5",
+        "path": "^0.12.7",
+        "sequelize": "^6.3.5"
+    },
+    "devDependencies": {
+        "eslint": "^7.12.1",
+        "eslint-config-google": "^0.14.0",
+        "eslint-plugin-react": "^7.21.5"
+    }
+}
