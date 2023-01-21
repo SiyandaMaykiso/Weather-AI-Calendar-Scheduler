@@ -6,6 +6,10 @@
 
 ![](Weather%20API.gif)
 
+### Demonstration 
+
+<img src="https://github.com/SiyandaMaykiso/Weather-AI-Calendar-Scheduler/blob/main/Demo.gif" alt="application demonstration">
+
 ## WEATHER (AI) CALENDAR SCHEDULER
 
 * The application can provide simple outdoor ideas for the time and date depending on your calendar & location for the activity that is best suited for the day.
